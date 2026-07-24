@@ -1,0 +1,6 @@
+/Users/amansharma/Desktop/jm/JantarMantar/android/app/.cxx/Debug/525d1v43/armeabi-v7a/NitroModulesSpec_autolinked_build/CMakeFiles/react_codegen_NitroModulesSpec.dir/NitroModulesSpec-generated.cpp.o
+/Users/amansharma/Desktop/jm/JantarMantar/android/app/.cxx/Debug/525d1v43/armeabi-v7a/NitroModulesSpec_autolinked_build/CMakeFiles/react_codegen_NitroModulesSpec.dir/react/renderer/components/NitroModulesSpec/ComponentDescriptors.cpp.o
+/Users/amansharma/Desktop/jm/JantarMantar/android/app/.cxx/Debug/525d1v43/armeabi-v7a/NitroModulesSpec_autolinked_build/CMakeFiles/react_codegen_NitroModulesSpec.dir/react/renderer/components/NitroModulesSpec/EventEmitters.cpp.o
+/Users/amansharma/Desktop/jm/JantarMantar/android/app/.cxx/Debug/525d1v43/armeabi-v7a/NitroModulesSpec_autolinked_build/CMakeFiles/react_codegen_NitroModulesSpec.dir/react/renderer/components/NitroModulesSpec/Props.cpp.o
+/Users/amansharma/Desktop/jm/JantarMantar/android/app/.cxx/Debug/525d1v43/armeabi-v7a/NitroModulesSpec_autolinked_build/CMakeFiles/react_codegen_NitroModulesSpec.dir/react/renderer/components/NitroModulesSpec/ShadowNodes.cpp.o
+/Users/amansharma/Desktop/jm/JantarMantar/android/app/.cxx/Debug/525d1v43/armeabi-v7a/NitroModulesSpec_autolinked_build/CMakeFiles/react_codegen_NitroModulesSpec.dir/react/renderer/components/NitroModulesSpec/States.cpp.o
